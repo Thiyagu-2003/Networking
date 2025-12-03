@@ -335,5 +335,3 @@ GitHub: Thiyagu-2003
 </p>
 
 ---
-
-If you want this **converted into a GitHub-ready ZIP**, **PDF**, or want a **stylish dark-mode version**, say the word.
