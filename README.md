@@ -1,6 +1,8 @@
 ---
+<h1 align="center">
+  🌐 <strong>Networking Fundamentals</strong>
+</h1>
 
-# 🌐 **Networking Fundamentals — Complete Cloud & DevOps Reference**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Networking-Fundamentals-blue" />
